@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>MP2 </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body style="background-color:mistyrose;"> 
+<h1 style="background-color:orchid;"> Michelle Reed - Mini Project 3</h1>
+
+
+<h1 style="background-color:thistle;"> Digital Audio</h1>
+
+
+<p>For my <b>Digital Audio Mini Project 3</b>, I chose to create an introduction to use for my ePortfolio page with the <b>Audacity</b> software.</p>
+<p>I have a background in radio and television production which influenced how I created my Mini Project 3. I opened with a sound clip, faded the first clip down, began my voice over, faded the first clip out, faded the second clip up, under my voice over and ended with a quick fade out at the end.</p>
+<p>I received permission to use track 7 <i>Corporate Technology</i> and track 9 <i>Corporate Vision</i> from  Scott Holmes' <i>Corporate Motivational Music</i> album at <a href="http://scottholmesmusic.com">scottholmesmusic.com</a>. His content is available with a FREE Creative Commons License.</p>
+<p>Below the audio clip are the editing effects I utilized in Audacity to develop my project.</p>
+
+<audio controls>
+<source src="reed.mp3" type="audio/mp3">
+</audio>
+
+<!-- I utilized an ordered list to organize the tools I used to edit my audio track together. -->	
+<p>To edit the music tracks, I:</p>
+
+	<ul>
+		<li> <b>imported</b> the first music file.</li>
+		<li> used the <b>time shift tool</b> to add .5 second before the audio begins.</li>
+		<li> <b>clipped</b> the music about 20 seconds in and used the <b>envelope tool</b> to fade out the clip at about 17 seconds.</li>
+		<li> <b>imported</b> the second music file.</li>
+		<li> <b>clipped</b> the beginning of the music to  20 seconds in and used the <b>envelope tool</b> to fade in the clip.</li>
+		<li> used the <b>time shift tool</b> to place it at about the 20 second mark.</li>
+		<li> used the <b>envelope tool</b> to fade out the clip.</li>
+	</ul>
+
+<p>To create the voice over, I:</p>
+	<ul>
+		<li> used <b>Logitech H390 USB computer headset</b>.</li>
+		<li> selected the headset in the <b>recording device</b> dropdown.</li>
+		<li> used the <b>time shift tool</b> to add place the voice over near the 10 second mark.</li>
+		<li> used the <b>silence audio</b> to remove the clicks at the beginning and end as well as the breath intake between statements.</li>
+	</ul>		
+
+<p>To finalize the project, I:</p>
+	<ul>
+		<li> <b>normalized</b> the audio.</li>
+		<li> <b>mix and rendered</b> the tracks.</li>
+		<li> <b>exported</b> to a .mp3.</li>
+	</ul>
+		
+<h2 style="background-color:plum;">Assignment List</h2>
+<ul type="disc">
+<li><a href="mp1.html" target="_blank">Mini Project 1</a></li>
+<li><a href="mp2.html" target="_blank">Mini Project 2</a></li>
+<li><a href="mp3.html" target="_blank">Mini Project 3</a></li>
+<li><a href="mp4.html" target="_blank">Mini Project 4</a></li>
+<li><a href="mp5.html" target="_blank">Mini Project 5</a></li>
+<li><a href="mp6.html" target="_blank">Mini Project 6</a></li>
+<li><a href="Michelle Reed Design Document for Final Project.pdf" target="_blank">Design Document</a></li>
+<li><a href="final.html" target="_blank">Final Website</a></li>
+</ul>
+
+
+<a href="http://www.uakron.edu/">University of Akron Home Page</a>
+<br/>
+<a href="mdaley@zips.uakron.edu">Contact Me</a> 
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+
+<!--Validator ran on 3/15/2019 except for the audio code that was hidden from the validator.  it is common for the audio not to pass validator
+- Code last updated 3/15/2019-->
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>MP2 </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body style="background-color:mistyrose;"> 
+<h1 style="background-color:orchid;"> Michelle Reed - Mini Project 2</h1>
+
+
+<h1 style="background-color:thistle;"> Photoshop Before and After: Photo 1</h1>
+
+
+<p>For my first <i>before and after</i> assignment, I chose to correct this photo to utlize as my head shot on my ePortfolio website.</p>
+<p>The photo was taken with a <b>Nikon D3300</b> in bright sunlight. I feel the corrections were an improvement and created a better version of this photo.</p>
+<p>To correct this photo to my liking, I:</p>
+	<ul>
+		<li> used the <b>clone tool</b> to fill the flowers in behind my right sholder to cover the exposed dirt.</li>
+		<li> used the <b>dodge tool</b> to brightened up my eye area to hide my dark circles.</li>
+		<li> adjusted 
+			<UL>
+				<li><b>hue</b>.</li>
+				<li> <b>levels</b>.</li>
+				<li> <b>vibrance</b>.</li>
+				<li> <b>saturation</b>.</li>
+				<li> <b>color balance</b>.</li>
+	</ul>
+	</ul>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td width="100%">
+		<img src="MP2-Reed_before1.jpg" alt="image one before" width="600" height="400" />
+		<img src="MP2-Reed_after1.jpg" alt="image one after" width="600" height="400" /></td>
+	</tr>
+</table>
+
+
+
+<br/>
+
+<h1 style="background-color:thistle;"> Photoshop Before and After: Photo 2</h1>
+
+<p>For my second <i>before and after</i> assignment, I chose to correct this photo to, again, utilize it in my ePortfolio, but this time as an artifact to document presenting at a vendor user conference.</p>
+<p>The photo was taken with an attendee's <b>iPhone</b> and uploaded to the conference app. I downloaded this photo from the app. This was taken in a extreamly low light and from a significant distance. The even more challenging part was the fact that I was standing in front of a large projection screen presenting with powerpoint.</p>
+<p>To correct this photo, I:</p>
+	<ul>
+		<li> used the <b>Text</b> feature to add a lable in the bottom right hand corner of the screen to mark the conference and the year .</li>
+		<li> adjusted 
+			<UL>
+				<li> <b>levels</b>.</li>				
+				<li> <b>contrast</b>.</li>
+				<li> <b>vibrance</b>.</li>
+				<li> <b>brightness</b>.</li>		
+				<li> <b>color balance</b>.</li>
+	</ul>
+	</ul>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+	<tr>
+		<td width="100%">
+		<img src="MP2-Reed_before2.png" alt="image two before" width="600" height="400" />
+		<img src="MP2-Reed_after2.jpg" alt="image two after" width="600" height="400" /></td>
+	</tr>
+</table>
+
+
+		
+<h2 style="background-color:plum;">Assignment List</h2>
+<ul type="disc">
+<li><a href="mp1.html" target="_blank">Mini Project 1</a></li>
+<li><a href="mp2.html" target="_blank">Mini Project 2</a></li>
+<li><a href="mp3.html" target="_blank">Mini Project 3</a></li>
+<li><a href="mp4.html" target="_blank">Mini Project 4</a></li>
+<li><a href="mp5.html" target="_blank">Mini Project 5</a></li>
+<li><a href="mp6.html" target="_blank">Mini Project 6</a></li>
+<li><a href="Michelle Reed Design Document for Final Project.pdf" target="_blank">Design Document</a></li>
+<li><a href="final.html" target="_blank">Final Website</a></li>
+</ul>
+
+
+<a href="http;//www.uakron.edu/">University of Akron Home Page</a>
+<br/>
+<a href="mdaley@zips.uakron.edu">Contact Me</a> 
+
+</body>
+</html>
